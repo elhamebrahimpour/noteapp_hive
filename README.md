@@ -1,6 +1,14 @@
 # noteapp_hive
 
-A new Flutter project.
+* Hive local database used in this app
+* Actions which we could do in this app are:
+   * add task
+   * edit task
+   * read all tasks
+   * delete task
+   * search task
+
+![noteapp_hive](https://user-images.githubusercontent.com/94855499/214023349-65b0d3b6-32e4-4a0b-84ef-66d26bffd145.png)
 
 ## Getting Started
 
